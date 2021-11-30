@@ -9,7 +9,7 @@
 //------------------------------------------------------------------------------
 
 
-namespace Stoian_Iuliana_Lab2.Properties
+namespace Zob_Cristina_Lab2.Properties
 {
     /// <summary>
     ///   A strongly-typed resource class, for looking up localized strings, etc.
